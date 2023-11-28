@@ -1,0 +1,54 @@
+body {
+    max-width: 1440px;
+    max-height: 689px;
+    margin-left: 20px;
+}
+
+ul {
+    display: flex;
+    padding-top: 129px;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 335px;
+    height: 431px;
+    justify-content: flex-end;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 17px;
+    padding-bottom: 60px;
+}
+
+.roma {
+    background-image: url(./images/rome.png);
+    background-repeat: no-repeat;
+}
+
+.barco {
+    background-image: url(./images/boat.png);
+    background-repeat: no-repeat;
+}
+
+.deserto {
+    background-image: url(./images/sand-and-sea.png);
+    background-repeat: no-repeat;
+}
+
+.noite {
+    background-image: url(./images/starry-night.png);
+    background-repeat: no-repeat;
+}
+
+.da-vinci {
+    font-weight: 400;
+}

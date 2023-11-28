@@ -1,0 +1,5 @@
+@media (max-width: 376px) {
+   body {margin: 0 auto; padding: 0}
+   ul {margin: 1px 20px 1px 20px; padding: 0; flex-direction: column;}
+   li {padding: 1px 1px 1px 40px; justify-content: flex-end;}
+}
